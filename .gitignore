@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+backend/static/generated/
+*.pdf
+tectonic.exe
+tectonic.zip
